@@ -10,7 +10,7 @@ Projeto realizado com auxilio do curso de nivelamento de HTML, CSS e JavaScript 
 
 ## :computer: Projeto:
 
-O protótipo foi criado com o intuito de buscar na API um Cep e salva-lo numa lista de buscas.
+O projeto foi criado com o intuito de buscar na API um Cep e salva-lo numa lista de buscas.
 
 ## 🏷️ Layout:
 
